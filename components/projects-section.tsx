@@ -21,7 +21,7 @@ const projects = [
     description: "A machine learning-powered system that detects fake and real news articles with 97% accuracy using NLP techniques, TF-IDF vectorization, and Logistic Regression.",
     image: "https://plus.unsplash.com/premium_photo-1707774568376-b146c6bf79f0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     tags: ["Scikit-learn", "ML", "Data Preproscesing"],
-    github: "https://github.com/Zezo-Elkafoury/Rock-VS-Mine-Prediction",
+    github: "https://github.com/Zezo-Elkafoury/Fake-News-Detection",
     demo: "#",
   },
   {
