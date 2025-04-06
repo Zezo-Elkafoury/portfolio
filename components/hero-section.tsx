@@ -62,7 +62,7 @@ export function HeroSection() {
             <div className="absolute inset-0 rounded-full bg-gradient-to-r from-primary/20 via-secondary/20 to-accent/20 blur-3xl" />
             <div className="animate-float relative rounded-full bg-muted">
               <Image
-                src="https://media.licdn.com/dms/image/v2/D4D03AQFLU5Vg92NjJg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729112431859?e=1745452800&v=beta&t=dmVIzqIVLapZgKUrzf6kY13JA0b8_SJdYmdgC6If7sA"
+                src="https://media.licdn.com/dms/image/v2/D4D03AQG8VfNwxa-Tzg/profile-displayphoto-shrink_400_400/B4DZVKBs.6HkAg-/0/1740703717416?e=1749686400&v=beta&t=MbZNyHLcElKQ3yX7VRkNSFRP4wLFW2RfJ_Pfd2_HDY4"
                 alt="Profile"
                 width={400}
                 height={400}
