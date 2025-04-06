@@ -32,7 +32,8 @@ export function Header() {
     >
       <div className="container mx-auto px-4">
         <div className="flex h-16 items-center justify-between">
-          <Link href="/" className="text-xl font-bold gradient-text hover:opacity-80 transition-opacity">
+          <Link href="/" className="text-xl font-bold hover:opacity-80 transition-opacity"
+  style={{ color: 'hsl(180, 100%, 40%)' }}>
             Ziad Elkafoury
           </Link>
           <nav className="hidden md:flex space-x-4">
