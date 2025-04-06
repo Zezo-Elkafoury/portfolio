@@ -40,7 +40,7 @@ export function HeroSection() {
             >
               <Button
                 onClick={() => document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" })}
-                className="bg-primary hover:bg-primary/90 transition-colors duration-300"
+                className="bg-primary hover:bg-primary/90 transition-colors duration-300 text-white"
               >
                 Get in Touch
               </Button>
